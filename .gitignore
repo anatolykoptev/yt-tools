@@ -1,0 +1,12 @@
+# local state
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# credentials never belong in this repository
+.env
+.env.*
+*.pem
+*.key
+client_secret*.json
