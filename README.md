@@ -28,5 +28,4 @@ belong on the OAuth consent screen, so treat them as fixed: do not rename or mov
 Stable and rarely changed. The privacy policy is dated; update the date whenever its text changes.
 History is in [CHANGELOG.md](CHANGELOG.md), notes for agents in [CLAUDE.md](CLAUDE.md), contribution
 rules in [CONTRIBUTING.md](CONTRIBUTING.md), and every document in [docs/INDEX.md](docs/INDEX.md).
-Security reports go through [SECURITY.md](SECURITY.md). No licence has been chosen yet, so no
-rights to reuse the pages are granted beyond viewing them.
+Security reports go through [SECURITY.md](SECURITY.md). Licensed under Apache-2.0, see [LICENSE](LICENSE).

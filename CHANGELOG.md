@@ -6,6 +6,10 @@ are grouped by date.
 
 ## [Unreleased]
 
+### Changed
+
+- Licensed under Apache-2.0 from this version on; before this the repository granted no licence.
+
 ### Added
 
 - Repository documents: `README.md`, `CLAUDE.md`, `CONTRIBUTING.md`, `SECURITY.md`,

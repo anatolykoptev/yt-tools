@@ -27,4 +27,4 @@ There is no CI workflow. Before a PR, check by hand:
 - **Everything in the repository is served.** Pages publishes the whole root, documents included,
   and the repository is public. No hostnames, operator paths, account names, tokens, OAuth client
   files or personal data in any tracked file; `.gitignore` excludes common credential files.
-- **No licence is chosen.** Do not add a `LICENSE`; that is the owner's decision.
+- **Licence: Apache-2.0** (owner decision, 2026-11-11). `LICENSE` is the canonical SPDX text; do not edit it.
